@@ -1,0 +1,37 @@
+body{
+     background: url("../images/pexels-photo.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Eater', cursive;
+    
+    
+}
+
+div{
+    background-color: #4caf50;
+    width:40%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.9;
+}
+
+button{
+    background: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    font-size: 2em;
+    
+}
+
+h1{
+    font-size: 3em;
+}
+p{
+    font font-size:1.8em
+}
+
+i{
+    font font-size: 4em;
+    color: white;
+}
